@@ -1,0 +1,13 @@
+package com.stef.olahumano;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OlaHumanoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OlaHumanoApplication.class, args);
+	}
+
+}
